@@ -1,0 +1,16 @@
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\ATV's_EDA_ThalysonMenezes\EDA_ATV_03\bin\Debug\net5.0\EDA_ATV_03.exe
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\ATV's_EDA_ThalysonMenezes\EDA_ATV_03\bin\Debug\net5.0\EDA_ATV_03.deps.json
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\ATV's_EDA_ThalysonMenezes\EDA_ATV_03\bin\Debug\net5.0\EDA_ATV_03.runtimeconfig.json
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\ATV's_EDA_ThalysonMenezes\EDA_ATV_03\bin\Debug\net5.0\EDA_ATV_03.runtimeconfig.dev.json
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\ATV's_EDA_ThalysonMenezes\EDA_ATV_03\bin\Debug\net5.0\EDA_ATV_03.dll
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\ATV's_EDA_ThalysonMenezes\EDA_ATV_03\bin\Debug\net5.0\ref\EDA_ATV_03.dll
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\ATV's_EDA_ThalysonMenezes\EDA_ATV_03\bin\Debug\net5.0\EDA_ATV_03.pdb
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\ATV's_EDA_ThalysonMenezes\EDA_ATV_03\obj\Debug\net5.0\EDA_ATV_03.csprojAssemblyReference.cache
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\ATV's_EDA_ThalysonMenezes\EDA_ATV_03\obj\Debug\net5.0\EDA_ATV_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\ATV's_EDA_ThalysonMenezes\EDA_ATV_03\obj\Debug\net5.0\EDA_ATV_03.AssemblyInfoInputs.cache
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\ATV's_EDA_ThalysonMenezes\EDA_ATV_03\obj\Debug\net5.0\EDA_ATV_03.AssemblyInfo.cs
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\ATV's_EDA_ThalysonMenezes\EDA_ATV_03\obj\Debug\net5.0\EDA_ATV_03.csproj.CoreCompileInputs.cache
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\ATV's_EDA_ThalysonMenezes\EDA_ATV_03\obj\Debug\net5.0\EDA_ATV_03.dll
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\ATV's_EDA_ThalysonMenezes\EDA_ATV_03\obj\Debug\net5.0\ref\EDA_ATV_03.dll
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\ATV's_EDA_ThalysonMenezes\EDA_ATV_03\obj\Debug\net5.0\EDA_ATV_03.pdb
+C:\Users\ibyte\Desktop\EDA_2020.2\-------códigos de EDA\ATV's_EDA_ThalysonMenezes\EDA_ATV_03\obj\Debug\net5.0\EDA_ATV_03.genruntimeconfig.cache
